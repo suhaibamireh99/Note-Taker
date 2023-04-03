@@ -6,4 +6,4 @@ To run this you need to create a potgresql Database and assign the DB name and p
 
 To run Front-End navigate to its directory and run `yarn serve`
 
-It should run on port 8082 as a default.
+It should run on port `8082` as a default.
